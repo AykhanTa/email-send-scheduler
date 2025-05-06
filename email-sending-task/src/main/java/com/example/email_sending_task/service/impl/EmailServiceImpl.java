@@ -36,11 +36,6 @@ public class EmailServiceImpl implements EmailService {
         logger.info("Email request added with ID: {}", emailOutbox.getId());
     }
 
-//    @Override
-//    public void sendEmail() {
-//
-//    }
-
     @Scheduled(fixedRate = 60000)
     public void scheduleEmailSend() {
         logger.info("Fetching email requests for status");

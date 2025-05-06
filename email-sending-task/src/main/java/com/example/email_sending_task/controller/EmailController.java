@@ -19,5 +19,4 @@ public class EmailController {
     public void addEmail(@RequestBody EmailDto emailDto) {
         emailService.addEmail(emailDto);
     }
-
 }
