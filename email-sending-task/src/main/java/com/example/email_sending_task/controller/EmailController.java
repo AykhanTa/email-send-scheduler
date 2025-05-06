@@ -20,9 +20,4 @@ public class EmailController {
         emailService.addEmail(emailDto);
     }
 
-    @PostMapping("/send")
-    public String sendEmail() {
-        emailService.sendEmail();
-        return "Emails sent successfully";
-    }
 }

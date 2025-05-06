@@ -1,0 +1,20 @@
+2025-05-06 12:37:52 [scheduling-1] INFO  c.e.e.service.impl.EmailServiceImpl - Fetching email requests for status
+2025-05-06 12:38:02 [http-nio-8080-exec-2] INFO  c.e.e.service.impl.EmailServiceImpl - Adding new email request: a.tagizade71@gmail.com
+2025-05-06 12:38:02 [http-nio-8080-exec-2] INFO  c.e.e.service.impl.EmailServiceImpl - Email request added with ID: 2
+2025-05-06 12:38:52 [scheduling-1] INFO  c.e.e.service.impl.EmailServiceImpl - Fetching email requests for status
+2025-05-06 12:39:13 [scheduling-1] INFO  c.e.e.service.impl.EmailServiceImpl - Email request trying to sent retryCount is: 1
+2025-05-06 12:39:51 [scheduling-1] INFO  c.e.e.service.impl.EmailServiceImpl - Fetching email requests for status
+2025-05-06 12:40:13 [scheduling-1] INFO  c.e.e.service.impl.EmailServiceImpl - Email request trying to sent retryCount is: 2
+2025-05-06 12:40:51 [scheduling-1] INFO  c.e.e.service.impl.EmailServiceImpl - Fetching email requests for status
+2025-05-06 12:41:13 [scheduling-1] INFO  c.e.e.service.impl.EmailServiceImpl - Email request trying to sent retryCount is: 3
+2025-05-06 12:41:52 [scheduling-1] INFO  c.e.e.service.impl.EmailServiceImpl - Fetching email requests for status
+2025-05-06 12:42:13 [scheduling-1] INFO  c.e.e.service.impl.EmailServiceImpl - Email request trying to sent retryCount is: 4
+2025-05-06 12:42:51 [scheduling-1] INFO  c.e.e.service.impl.EmailServiceImpl - Fetching email requests for status
+2025-05-06 12:43:13 [scheduling-1] INFO  c.e.e.service.impl.EmailServiceImpl - Email request trying to sent retryCount is: 5
+2025-05-06 12:43:52 [scheduling-1] INFO  c.e.e.service.impl.EmailServiceImpl - Fetching email requests for status
+2025-05-06 12:44:13 [scheduling-1] INFO  c.e.e.service.impl.EmailServiceImpl - Email can't sent to: a.tagizade71@gmail.com
+2025-05-06 12:45:55 [scheduling-1] INFO  c.e.e.service.impl.EmailServiceImpl - Fetching email requests for status
+2025-05-06 12:45:58 [http-nio-8080-exec-2] INFO  c.e.e.service.impl.EmailServiceImpl - Adding new email request: aassa
+2025-05-06 12:45:58 [http-nio-8080-exec-2] INFO  c.e.e.service.impl.EmailServiceImpl - Email request added with ID: 3
+2025-05-06 12:46:55 [scheduling-1] INFO  c.e.e.service.impl.EmailServiceImpl - Fetching email requests for status
+2025-05-06 12:47:16 [scheduling-1] INFO  c.e.e.service.impl.EmailServiceImpl - Email request trying to sent aassa retryCount is: 1

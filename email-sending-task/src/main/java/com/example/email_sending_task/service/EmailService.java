@@ -4,5 +4,5 @@ import com.example.email_sending_task.dto.EmailDto;
 
 public interface EmailService {
     void addEmail(EmailDto emailDto);
-    void sendEmail();
+    //void sendEmail();
 }
